@@ -1,5 +1,5 @@
 ### :fire: My Stats :
-![](https://komarev.com/ghpvc/?username=Ahmed-Elrayes)
+![](https://komarev.com/ghpvc/?username=Ahmed-Elrayes) [![wakatime](https://wakatime.com/badge/user/76675745-21ce-4932-aeba-d1b0aada6544.svg)](https://wakatime.com/@76675745-21ce-4932-aeba-d1b0aada6544)
 
 [![Ahmed Elrayes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Elrayes&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Ahmed-Elrayes/Ahmed-Elrayes)
 
